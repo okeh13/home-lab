@@ -10,8 +10,9 @@ here i can fully control my pc  i can turn it on/off whenever i need my server t
 
 
 i also can monitoring my home lab if some anomaly detected 
-<img width="402" height="1200" alt="image" src="https://github.com/user-attachments/assets/da72e5a7-acbe-4248-9643-f980d33bd662" />
-<img width="521" height="258" alt="image" src="https://github.com/user-attachments/assets/0ce886df-9e8c-4342-ad7d-6ac02b3ef0a2" />
+<img width="402" height="800" alt="image" src="https://github.com/user-attachments/assets/da72e5a7-acbe-4248-9643-f980d33bd662" />
+<img width="513" height="252" alt="image" src="https://github.com/user-attachments/assets/5cebc88d-2417-4a07-b4bb-5c1b8260266d" />
+
 
 
 
