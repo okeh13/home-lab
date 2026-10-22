@@ -4,6 +4,8 @@ i change my old pc to a server running proxmox VE and
 i have full access to my pc with cloud using **tailscale tunnel & smarthome**
 
 
+<img width="1600" height="702" alt="image" src="https://github.com/user-attachments/assets/d01bac83-c2f8-49ed-ae58-f5f18c00143e" />
+
 
 <img width="602" height="600" alt="image" src="https://github.com/user-attachments/assets/2ee3659c-00d3-46e3-9d12-459fbc6e1c43" />
 
